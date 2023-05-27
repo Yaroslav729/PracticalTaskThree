@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskThree\twenty-three\bin\Debug\net7.0\twenty-three.exe
+G:\GB\PracticalTaskThree\twenty-three\bin\Debug\net7.0\twenty-three.deps.json
+G:\GB\PracticalTaskThree\twenty-three\bin\Debug\net7.0\twenty-three.runtimeconfig.json
+G:\GB\PracticalTaskThree\twenty-three\bin\Debug\net7.0\twenty-three.dll
+G:\GB\PracticalTaskThree\twenty-three\bin\Debug\net7.0\twenty-three.pdb
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.AssemblyInfo.cs
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.dll
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\refint\twenty-three.dll
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.pdb
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\twenty-three.genruntimeconfig.cache
+G:\GB\PracticalTaskThree\twenty-three\obj\Debug\net7.0\ref\twenty-three.dll
