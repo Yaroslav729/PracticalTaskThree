@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskThree\nineteen\bin\Debug\net7.0\nineteen.exe
+G:\GB\PracticalTaskThree\nineteen\bin\Debug\net7.0\nineteen.deps.json
+G:\GB\PracticalTaskThree\nineteen\bin\Debug\net7.0\nineteen.runtimeconfig.json
+G:\GB\PracticalTaskThree\nineteen\bin\Debug\net7.0\nineteen.dll
+G:\GB\PracticalTaskThree\nineteen\bin\Debug\net7.0\nineteen.pdb
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.AssemblyInfo.cs
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.dll
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\refint\nineteen.dll
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.pdb
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\nineteen.genruntimeconfig.cache
+G:\GB\PracticalTaskThree\nineteen\obj\Debug\net7.0\ref\nineteen.dll
