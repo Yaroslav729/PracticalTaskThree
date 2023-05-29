@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskThree\twenty-one\bin\Debug\net7.0\twenty-one.exe
+G:\GB\PracticalTaskThree\twenty-one\bin\Debug\net7.0\twenty-one.deps.json
+G:\GB\PracticalTaskThree\twenty-one\bin\Debug\net7.0\twenty-one.runtimeconfig.json
+G:\GB\PracticalTaskThree\twenty-one\bin\Debug\net7.0\twenty-one.dll
+G:\GB\PracticalTaskThree\twenty-one\bin\Debug\net7.0\twenty-one.pdb
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.AssemblyInfo.cs
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.dll
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\refint\twenty-one.dll
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.pdb
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\twenty-one.genruntimeconfig.cache
+G:\GB\PracticalTaskThree\twenty-one\obj\Debug\net7.0\ref\twenty-one.dll
